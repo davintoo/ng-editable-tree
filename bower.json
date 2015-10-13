@@ -8,8 +8,6 @@
   ],
   "dependencies": {
     "jquery": "~2.0.3",
-    "jquery-ui": "~1.10.3",
-    "jquery-ui-touch-punch": "latest",
     "angular": "~1.2.0-rc.1",
     "angular-resource": "~1.2.0-rc.1",
     "requirejs": "~2.1.8"
